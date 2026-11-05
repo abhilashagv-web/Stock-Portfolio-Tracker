@@ -50,3 +50,10 @@ This project currently uses predefined sample stock prices for demonstration. It
 ## Author
 
 Abhilasha G V
+
+
+## Project Output
+
+Here is a screenshot of the Stock Portfolio Tracker running in the terminal.
+
+![Stock Portfolio Tracker Output](portfolio-output.png)
