@@ -56,4 +56,4 @@ Abhilasha G V
 
 Here is a screenshot of the Stock Portfolio Tracker running in the terminal.
 
-![Stock Portfolio Tracker Output](portfolio-output.png)
+![Stock Portfolio Tracker Output](Screenshot%202026-11-05%20194106.png)
